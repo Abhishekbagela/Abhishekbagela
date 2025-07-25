@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abhishekbagela an Swift Developer
+- 👋 Hi, I’m Abhishek Bagela a Swift Developer
 - 👀 I’m interested in mobile dev and AI.
 - 🌱 I’m currently learning UIKit, Storyboard, XIB, NIB, and iOS
 - 💞️ I’m looking to collaborate with developers and learners to develop interesting thing's
